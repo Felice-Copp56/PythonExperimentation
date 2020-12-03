@@ -4,8 +4,7 @@ import math
 
 
 count = 0
-videoFile ="XCloud55.mkv"
-savepath = 'C:/Users/coppo/Desktop/Università/1_annoCloudComputing/RetiGeografiche/Stadia5-5'
+videoFile ="YourFile.mkv/avi/mp4"
 cap = cv2.VideoCapture(videoFile)   # capturing the video from the given path
 frameRate = cap.get(5) #frame rate
 x=1
