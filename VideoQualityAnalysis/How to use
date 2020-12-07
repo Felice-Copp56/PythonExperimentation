@@ -1,0 +1,3 @@
+Clone and Download this folder, use Pnsr and PnsrOrig in order to test PSNR script. 
+Watch out, first frame is original image while the second frame is the frame which you want to compare . 
+The PSNR value value indicates the peak signal to noise ratio between images.
