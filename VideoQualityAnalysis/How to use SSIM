@@ -1,0 +1,3 @@
+Clone and download the folder, install all packages and libraries which you need. Choosetwo identical images but one with small imperfections like Einstein images that i had put on 
+the folder. Run the script, where first imageA is the original while the second image imageB have small imperfections. SSIM value indicate Structural Similarity between the images.
+You can check the quality using my table
